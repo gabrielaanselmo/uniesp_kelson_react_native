@@ -12,5 +12,17 @@ Este repositório contém os exercícios desenvolvidos durante a disciplina de *
 ## 🎉 Resultados
 
 <div align="center">
-  
+
+### Exercicio 01 - Aula 01
+<img src="resultados/aula01exercicio01.jpeg" alt="Exercicio 01 Resultado - Aula 01" width="600">
+
+### Exercicio 02 - Aula 01
+<img src="resultados/aula01exercicio02.jpeg" alt="Exercicio 02 Resultado - Aula 01" width="600">
+
+### Exercicio 03 - Aula 01
+<img src="resultados/aula01exercicio03.jpeg" alt="Exercicio 03 Resultado - Aula 01" width="600">
+
+### Exercicio 04 - Aula 01
+<img src="resultados/aula01exercicio04.jpeg" alt="Exercicio 04 Resultado - Aula 01" width="600">
+
 </div>
