@@ -9,8 +9,8 @@ Este repositório contém os exercícios desenvolvidos durante a disciplina de *
 - 🛠️ **Expo**: Plataforma que facilita o desenvolvimento e a compilação de projetos React Native.
 - 🖥️ **Visual Studio Code**: Editor de código recomendado para desenvolvimento.
 
-## 🎉 Confira!
+## 🎉 Resultados
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1dLIbmM3bMhsSuLrcu/giphy.gif" alt="React Native Mobile Development" width="300"/>
+  
 </div>

@@ -1,11 +1,11 @@
 import { View, Text } from 'react-native'
 import React from 'react'
-import Exercicio04 from './scr/components/Exercicio04'
+import Exercicio01 from './scr/components/Exercicio01'
 
 const App = () => {
   return (
     <View>
-      <Exercicio04 />
+      <Exercicio01 nome="bibiperigosa" />
     </View>
   )
 }
