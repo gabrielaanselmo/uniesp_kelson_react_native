@@ -25,4 +25,19 @@ Este repositório contém os exercícios desenvolvidos durante a disciplina de *
 ### Exercicio 04 - Aula 01
 <img src="resultados/aula01exercicio04.jpeg" alt="Exercicio 04 Resultado - Aula 01" width="150">
 
+### Exercicio 01 - Aula 02
+<img src="resultados/exercicio01aula02.jpeg" alt="Exercicio 01 Resultado - Aula 02" width="150">
+
+### Exercicio 02 - Aula 02
+<img src="resultados/exercicio02aula02.png" alt="Exercicio 02 Resultado - Aula 02" width="150">
+
+### Exercicio 03 - Aula 02
+<img src="resultados/exercicio03aula02.jpeg" alt="Exercicio 03 Resultado - Aula 02" width="150">
+
+### Exercicio 04 - Aula 02
+<img src="resultados/exercicio04aula02.jpeg" alt="Exercicio 04 Resultado - Aula 02" width="150">
+
+### Exercicio 05 - Aula 02
+<img src="resultados/exercicio05aula02.png" alt="Exercicio 04 Resultado - Aula 02" width="150">
+
 </div>
