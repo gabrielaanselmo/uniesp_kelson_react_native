@@ -3,8 +3,8 @@ import React from 'react'
 
 const Exercicio01 = ({nome}) => {
   return (
-    <View style={sytles.container}>
-      <Text sytles={sytles.text}>Olá, bem vindo: {nome}</Text>
+    <View style={styles.container}>
+      <Text sytles={styles.text}>Olá, bem vindo: {nome}</Text>
     </View>
   )
 }
